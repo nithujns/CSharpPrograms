@@ -31,7 +31,7 @@
 //    //        }
 //    //        else if(y % 400 == 0 ||  y %100 ==0)
 //    //        {
-//    //            Console.Write("Leap Year!");
+//    //            Console.Write("Leap Year");
 //    //        }
 //    //        else
 //    //        {
