@@ -12,7 +12,7 @@ namespace _1000cSharpPractice
             {
 
                 Console.WriteLine("Enter any zip codes from the followig {92688, 92669, 92667, 92666}");
-                Console.WriteLine("Please enter ZipCode:");
+                Console.Write("Please enter ZipCode:  ");
 
                 //get the user input
                 var number = Console.ReadLine();
