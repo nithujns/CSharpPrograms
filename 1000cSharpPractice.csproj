@@ -49,6 +49,7 @@
     <Compile Include="average.cs" />
     <Compile Include="Binary Triangle.cs" />
     <Compile Include="calculateHeight.cs" />
+    <Compile Include="city_zip_using_call_method.cs" />
     <Compile Include="CountNoOfOnes.cs" />
     <Compile Include="count_the_word.cs" />
     <Compile Include="DateandTime.cs" />
